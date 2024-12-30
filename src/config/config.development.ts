@@ -20,7 +20,7 @@ export default defineConfig({
     redis: {
         host: 'localhost',
         port: '6379',
-        password: '123456',
+        password: '',
         db: '0',
     },
 
